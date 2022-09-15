@@ -3,3 +3,7 @@
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 9
 	ReadMe.md,a\2\a225a7e79496c5a1d847c78c3db651eb302ec867
+w
+G.idea/sonarlint/issuestore/a/2/a225a7e79496c5a1d847c78c3db651eb302ec867,8\a\8ad0b871d56422ee6e187a7a839d74e6124c44db
+w
+G.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec,8\6\863e0292fd7e9b3e74dafd6cc01f73ba76346482
